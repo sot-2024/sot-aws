@@ -1,0 +1,2 @@
+# sot-aws
+AWS purchase 
